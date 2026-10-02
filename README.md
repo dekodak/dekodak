@@ -6,6 +6,8 @@ Software Engineer · Deloitte · Denmark
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://pl.linkedin.com/in/denyskodak)
 
+<br clear="right" />
+
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
