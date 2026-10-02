@@ -17,7 +17,3 @@ Software Engineer · Deloitte · Denmark
 - Building modern web applications with React, Next.js, and Angular
 - Working across the full stack with Node.js
 - Exploring AI-driven development (AAD) and spec-driven development (SDD) workflows
-
-## GitHub Stats
-
-![Denys Kodak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dekodak&show_icons=true&theme=default&hide_border=true)
