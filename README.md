@@ -1,12 +1,8 @@
 # Denys Kodak
 
-<img src="assets/baby-yoda.gif" alt="Baby Yoda" width="160" align="right" />
-
 Software Engineer · Deloitte · Denmark
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://pl.linkedin.com/in/denyskodak)
-
-<br clear="right" />
 
 ## Tech Stack
 
@@ -18,6 +14,10 @@ Software Engineer · Deloitte · Denmark
 
 ## About
 
+<img src="assets/baby-yoda.gif" alt="Baby Yoda" width="160" align="right" />
+
 - Building modern web applications with React, Next.js, and Angular
 - Working across the full stack with Node.js
 - Exploring AI-driven development (AAD) and spec-driven development (SDD) workflows
+
+<br clear="right" />
