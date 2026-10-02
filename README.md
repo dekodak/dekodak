@@ -1,6 +1,6 @@
 # Denys Kodak
 
-<img src="assets/baby-yoda.webp" alt="Baby Yoda" width="160" align="right" />
+<img src="assets/baby-yoda.gif" alt="Baby Yoda" width="160" align="right" />
 
 Software Engineer · Deloitte · Denmark
 
