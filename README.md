@@ -1,5 +1,7 @@
 # Denys Kodak
 
+<img src="assets/baby-yoda.webp" alt="Baby Yoda" width="160" align="right" />
+
 Software Engineer · Deloitte · Denmark
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://pl.linkedin.com/in/denyskodak)
