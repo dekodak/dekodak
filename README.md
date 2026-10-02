@@ -19,5 +19,6 @@ Software Engineer · Deloitte · Denmark
 - Building modern web applications with React, Next.js, and Angular
 - Working across the full stack with Node.js
 - Exploring AI-driven development (AAD) and spec-driven development (SDD) workflows
+- Currently deepening my knowledge of WCAG accessibility, AA and AAA
 
 <br clear="right" />
